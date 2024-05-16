@@ -70,7 +70,7 @@ with st.sidebar:
         st.title("Reconocimiento de imagen")
         st.subheader("Reconocimiento de imagen para flores")
 
-st.image('logo.png')
+st.image('logo.jpg')
 st.title("Smart Regions Center")
 st.write("Somos un equipo apasionado de profesionales dedicados a hacer la diferencia")
 st.write("""
